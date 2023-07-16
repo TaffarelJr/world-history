@@ -1,2 +1,4 @@
-# world-history
-A summary of the history of the world, from a gospel perspective.
+# World History
+
+A timeline of the history of the world,
+to increase understanding of how world events line up.
